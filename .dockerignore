@@ -1,0 +1,10 @@
+.git
+.gitignore
+*.md
+*.test
+*.swp
+*.swo
+*~
+.DS_Store
+vendor/
+
